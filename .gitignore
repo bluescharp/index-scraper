@@ -1,0 +1,4 @@
+.google-cookie
+*.pyc
+*.csv
+.idea/
